@@ -1,0 +1,20 @@
+{
+  "name": "mnemonic",
+  "version": "1.0.0",
+  "description": "mnemonic tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "superalfan",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "eth-lib": "^0.1.29",
+    "ethereum-mnemonic-privatekey-utils": "^1.0.5",
+    "ethereumjs-tx": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "web3": "^4.8.0"
+  }
+}
